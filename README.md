@@ -1,5 +1,9 @@
 Web3 and Blockchain Basics: Setup Wallet and Explore DApps
+
+
+
 Reflection on Web3 Basics:
+
 In this Web3 practical, I learned how to use blockchain technology in a hands-on way by working with MetaMask and the Ethereum Sepolia test network. This activity helped me understand the core process of creating and using a digital wallet, connecting to a test network, and making a blockchain transaction step by step.
 I started by installing the MetaMask browser extension and setting up my wallet securely. I carefully saved my seed phrase offline, as it is the only way to recover the wallet if access is lost. After setting up, I enabled the Sepolia Test Network in MetaMask to work with test ETH instead of real cryptocurrency. I then received test SepoliaETH from a faucet, which provides free tokens for learning and testing purposes.
 Once my wallet was funded, I explored how blockchain transactions work. I used the “Send” option in MetaMask to transfer 0.001 SepoliaETH from (Akhila) to Account 2. The transaction took only a few seconds to process and was marked as “Confirmed.” I then viewed the details on Etherscan, the blockchain explorer, which showed the transaction hash, gas fee, and status. Seeing the transaction recorded permanently on the blockchain helped me clearly understand how decentralized systems store and verify data publicly.
@@ -8,7 +12,9 @@ Overall, this exercise helped me build confidence in using blockchain tools and 
 
 
 
-Web3 Basics — Technical Summary
+Web3 Basics — Technical Summary:
+
+
 Name: Akhila
 Network Used: Ethereum Sepolia Testnet
 Wallet Used: MetaMask
